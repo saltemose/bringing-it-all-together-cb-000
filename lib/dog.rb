@@ -77,5 +77,6 @@ class Dog
     dog = dog_data[0]
     dog = Dog.new(id: dog[0], name: dog[1], breed: dog[2])
     dog
+  end
 
 end
